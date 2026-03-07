@@ -1,4 +1,4 @@
-# ZPM Experiments
+# ZPM Experiments (👀![Organization Views](https://komarev.com/ghpvc/?username=zpm-experiments\&color=blue))
 
 Experimental software projects, prototypes, and technical explorations.
 
